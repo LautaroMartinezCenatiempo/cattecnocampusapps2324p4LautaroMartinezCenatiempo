@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>             <!-- Azul oscuro para modo noche -->
+    <color name="colorPrimaryVariant">#263238</color>      <!-- Azul más oscuro para modo noche -->
+    <color name="colorOnPrimary">#FFFFFF</color>           <!-- Texto sobre colorPrimary para modo noche -->
+
+    <color name="colorSecondary">#66BB6A</color>           <!-- Verde claro para modo noche -->
+    <color name="colorSecondaryVariant">#43A047</color>    <!-- Verde más oscuro para modo noche -->
+    <color name="colorOnSecondary">#000000</color>         <!-- Texto sobre colorSecondary para modo noche -->
+
+    <color name="colorBackground">#212121</color>          <!-- Gris oscuro para fondos en modo noche -->
+    <color name="colorOnBackground">#FFFFFF</color>        <!-- Texto sobre colorBackground para modo noche -->
+
+    <color name="colorSurface">#37474F</color>             <!-- Azul oscuro para superficies en modo noche -->
+    <color name="colorOnSurface">#FFFFFF</color>           <!-- Texto sobre colorSurface para modo noche -->
+
+    <color name="colorError">#EF5350</color>               <!-- Rojo para indicadores de error en modo noche -->
+    <color name="colorOnError">#FFFFFF</color>             <!-- Texto sobre colorError para modo noche -->
+</resources>

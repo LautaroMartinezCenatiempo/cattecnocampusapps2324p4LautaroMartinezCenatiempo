@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cat.tecnocampus.apps2324.p4.LautaroMartinezCenatiempo</string>
+    <string name="hello_blank_fragment">Hola fragmento vacio</string>
+    <string name="recipe_name">Nombre de la Receta</string>
+    <string name="description">Descripcion</string>
+    <string name="recipe_image">Imagen de la Receta</string>
+    <string name="no_hay_recetas_disponibles">No hay recetas disponibles</string>
+    <string name="login_succesful">Inicio de sesión correcto</string>
+    <string name="login_failed">Inicio de sesión fallido</string>
+    <string name="register_succesfull">Registro exitoso</string>
+    <string name="register_failed">Registro fallido</string>
+    <string name="invalid_password">Contrasena No Valida</string>
+    <string name="invalid_email">Email No Valido</string>
+</resources>

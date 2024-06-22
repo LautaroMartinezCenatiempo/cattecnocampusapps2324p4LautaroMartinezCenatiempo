@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Defineix un estil general per l'aplicació -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Estils generals com colors primaris, fons, etc. -->
+        <item name="colorPrimary">#A8E6CF</item> <!-- Verd pastel clar -->
+        <item name="colorPrimaryDark">#81C784</item> <!-- Verd pastel fosc -->
+        <item name="colorAccent">#C8E6C9</item> <!-- Accent en verd pastel -->
+        <!-- Defineix la font globalment -->
+        <item name="android:fontFamily">@font/my_custom_font</item>
+    </style>
+
+    <!-- Defineix un estil específic per un component -->
+    <style name="CustomTextViewStyle">
+        <item name="android:fontFamily">@font/my_custom_font</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item> <!-- Lletra en blanc -->
+        <item name="android:background">#64B5F6</item> <!-- Fons en blau -->
+    </style>
+</resources>

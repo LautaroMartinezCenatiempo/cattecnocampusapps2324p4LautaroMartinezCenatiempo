@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720098732997",
+    "project_id": "practica-4-3bfc4",
+    "storage_bucket": "practica-4-3bfc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720098732997:android:5f5fc0c1f0390e25acf9ac",
+        "android_client_info": {
+          "package_name": "com.tecnocampus.cattecnocampusapps2324p4lautaromartinezcenatiempo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpIoCma6GD8Dm2Ryrg2HbAbcbEf242yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

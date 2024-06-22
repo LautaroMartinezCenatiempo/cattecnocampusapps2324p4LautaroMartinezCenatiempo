@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64B5F6</color>         <!-- Azul pastel -->
+    <color name="colorPrimaryVariant">#42A5F5</color>   <!-- Azul más oscuro pastel -->
+    <color name="colorOnPrimary">#FFFFFF</color>        <!-- Texto sobre colorPrimary -->
+
+    <color name="colorSecondary">#81C784</color>        <!-- Verde pastel -->
+    <color name="colorSecondaryVariant">#66BB6A</color><!-- Verde más oscuro pastel -->
+    <color name="colorOnSecondary">#000000</color>      <!-- Texto sobre colorSecondary -->
+
+    <color name="colorBackground">#E0E0E0</color>        <!-- Gris claro pastel -->
+    <color name="colorOnBackground">#212121</color>     <!-- Texto sobre colorBackground -->
+
+    <color name="colorSurface">#FFCCBC</color>           <!-- Naranja claro pastel -->
+    <color name="colorOnSurface">#37474F</color>        <!-- Texto sobre colorSurface -->
+
+    <color name="colorError">#EF9A9A</color>             <!-- Rojo pastel -->
+    <color name="colorOnError">#FFFFFF</color>          <!-- Texto sobre colorError -->
+</resources>

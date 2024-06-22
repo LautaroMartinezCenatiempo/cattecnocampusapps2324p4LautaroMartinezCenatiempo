@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_recipe"
+        android:title="Añadir Receta"
+        android:icon="@drawable/add_icon" />
+    <item
+        android:id="@+id/action_edit_recipe"
+        android:title="Editar Receta"
+        android:icon="@drawable/edit_icon" />
+    <item
+        android:id="@+id/action_delete_recipe"
+        android:title="Borrar Receta"
+        android:icon="@drawable/remove_icon" />
+</menu>
